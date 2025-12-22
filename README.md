@@ -11,7 +11,7 @@ Classic rocket trajectory optimization problem. According to Pontryagin’s maxi
 How can we take the biggest possible improvement step on a policy using the data we currently have, without stepping so far that we accidentally cause performance collapse?
 
 <div align="center">
-  <img src="res/ppo_algo.png" width="400"/>
+  <img src="assets/ppo_algo.png" width="400"/>
 </div>
 
 ### Results
@@ -30,13 +30,13 @@ Double Deep Q-Learning is used to reduce the maximaztion bias in Q-Learning. Thi
 
 
 <div align="center">
-  <img src="res/ddql_algo.png" width="400"/>
+  <img src="assets/ddql_algo.png" width="400"/>
 </div>
 
 ### Results
 
 <div align="center">
-  <img src="res/frozen_lake_demo.gif" width="300"/>
+  <img src="assets/frozen_lake_demo.gif" width="300"/>
 </div>
 
 ### Credits

@@ -1,12 +1,12 @@
 # Reinforcement Learning: Gymnasium Library
 
-This repository showcases implementations of reinforcement learning algorithms applied to environments of the Gymnasium library.
+This repository contains implementations of reinforcement learning algorithms applied to environments from the [Gymnasium](https://gymnasium.farama.org/index.html) library (the maintained successor to OpenAI Gym).
 
 ## Environments
 
 The following evironments are (or will be) used:
-- [Frozen Lake]()
-- [Lunar Lander]()
+- [FrozenLake-v1](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)
+- [LunarLander-v2](https://gymnasium.farama.org/environments/box2d/lunar_lander/)
 
 ## Results
 
